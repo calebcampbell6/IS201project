@@ -13,3 +13,27 @@ body{
    
 }
 
+.video{
+    text-decoration:underline;
+    color:darkslategrey
+    
+}
+
+.listtitle{
+    text-decoration: underline;
+}
+
+.marina{
+    font-weight: bold;
+    color: black
+}
+
+.header{
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.link{
+    font-size: 20px;
+    text-decoration: underline;
+}
